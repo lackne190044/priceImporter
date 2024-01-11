@@ -1,4 +1,5 @@
 #include <gtest/gtest.h>
+#include "ReadWriter.cpp"
 
 TEST(FooTest, DummyTest) {
     ASSERT_EQ(1, 1);
